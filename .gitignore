@@ -2,7 +2,9 @@
 .project
 .git/
 .gradle/
+.idea/
 .settings/
 bin/
 build/
+*.iml
 
